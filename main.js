@@ -1,6 +1,6 @@
 // conexion api del tiempo con api key
 
-const urlTiempo = "https://api.openweathermap.org/data/2.5/weather?q=Barcelona&appid=12bcd931813b66fb794cd92941110130&units=metric&lang=es";
+const urlTiempo = "https://api.openweathermap.org/data/2.5/weather?q=Barcelona&appid=mi_API_KEY&units=metric&lang=es";
 
 const ubicacion = document.getElementById("ubicacion");
 const icono = document.getElementById("icono");
