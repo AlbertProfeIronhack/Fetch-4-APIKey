@@ -1,0 +1,12 @@
+
+
+.hoy{
+background-color: rgb(32, 245, 145);
+border-radius: 10px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: large;
+padding: 15px;
+
+display: flex;
+gap: 20px;
+}
